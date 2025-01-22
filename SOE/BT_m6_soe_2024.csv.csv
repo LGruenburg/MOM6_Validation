@@ -1,0 +1,406 @@
+,Time,Value,EPU,Source,Var,Units
+0,1993,-1.1390611,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+1,1994,-0.47196776,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+2,1995,0.8917593,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+3,1996,-1.2981883,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+4,1997,0.97655386,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+5,1998,-0.6629058,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+6,1999,0.71321744,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+7,2000,-0.21059592,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+8,2001,-0.20499028,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+9,2002,1.3983396,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+10,2003,-0.92921734,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+11,2004,-1.3029977,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+12,2005,-0.6117251,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+13,2006,1.1012957,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+14,2007,0.687434,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+15,2008,0.8026999,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+16,2009,-0.8754771,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+17,2010,-1.4075586,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+18,2011,-1.2227174,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+19,2012,2.2098053,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+20,2013,0.0686213,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+21,2014,-0.29599792,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+22,2015,-1.0145594,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+23,2016,1.2986978,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+24,2017,0.7606212,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+25,2018,-0.33278474,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+26,2019,1.0716993,MAB,MOM6,Winter Bottom Temp Anomaly,degrees C
+27,1993,-1.1758305,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+28,1994,-0.2840412,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+29,1995,1.1231385,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+30,1996,-0.2770022,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+31,1997,0.28486404,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+32,1998,-0.6833621,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+33,1999,-0.1913782,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+34,2000,0.5742181,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+35,2001,-0.08069649,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+36,2002,1.8420192,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+37,2003,-0.10481602,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+38,2004,-1.4011695,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+39,2005,-0.76580256,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+40,2006,0.34508023,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+41,2007,-0.8919482,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+42,2008,0.41247034,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+43,2009,-0.45686403,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+44,2010,-1.3286716,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+45,2011,-0.65261304,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+46,2012,1.9191449,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+47,2013,-0.30371225,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+48,2014,-0.45537385,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+49,2015,-0.9389748,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+50,2016,0.8687507,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+51,2017,0.5160874,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+52,2018,0.5560036,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+53,2019,1.5504793,MAB,MOM6,Spring Bottom Temp Anomaly,degrees C
+54,1993,-1.0584654,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+55,1994,-0.29064056,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+56,1995,1.8100286,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+57,1996,-0.03196966,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+58,1997,0.09511563,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+59,1998,-0.67169756,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+60,1999,0.0724024,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+61,2000,0.50194764,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+62,2001,-0.20478626,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+63,2002,1.456383,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+64,2003,-0.57063663,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+65,2004,-1.3895876,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+66,2005,-1.1932728,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+67,2006,0.39131314,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+68,2007,-0.7379316,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+69,2008,0.2513026,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+70,2009,-0.382037,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+71,2010,-0.9188571,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+72,2011,-0.4725627,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+73,2012,0.8961131,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+74,2013,-0.40611595,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+75,2014,0.058005642,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+76,2015,0.026019378,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+77,2016,0.8677512,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+78,2017,0.40872383,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+79,2018,0.54133123,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+80,2019,0.9521233,MAB,MOM6,Summer Bottom Temp Anomaly,degrees C
+81,1993,-0.5337279,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+82,1994,-0.23824924,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+83,1995,0.21624574,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+84,1996,-0.040743154,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+85,1997,-1.3723952,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+86,1998,-0.24676612,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+87,1999,-0.1730225,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+88,2000,-0.21689026,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+89,2001,0.52708393,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+90,2002,0.08676223,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+91,2003,-0.6658288,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+92,2004,-0.39999202,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+93,2005,-0.09252999,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+94,2006,0.4697382,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+95,2007,-0.37021998,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+96,2008,-0.10731941,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+97,2009,-0.2717231,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+98,2010,-0.97853345,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+99,2011,-0.118104585,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+100,2012,-0.027263101,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+101,2013,-0.25192606,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+102,2014,0.19328803,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+103,2015,1.7050982,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+104,2016,0.8637234,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+105,2017,0.7493555,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+106,2018,0.27516443,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+107,2019,1.0187747,MAB,MOM6,Fall Bottom Temp Anomaly,degrees C
+108,1993,10.07495,MAB,MOM6,Annual Bottom Temp,degrees C
+109,1994,10.7304945,MAB,MOM6,Annual Bottom Temp,degrees C
+110,1995,12.062013,MAB,MOM6,Annual Bottom Temp,degrees C
+111,1996,10.639745,MAB,MOM6,Annual Bottom Temp,degrees C
+112,1997,11.047754,MAB,MOM6,Annual Bottom Temp,degrees C
+113,1998,10.485538,MAB,MOM6,Annual Bottom Temp,degrees C
+114,1999,11.157025,MAB,MOM6,Annual Bottom Temp,degrees C
+115,2000,11.21389,MAB,MOM6,Annual Bottom Temp,degrees C
+116,2001,11.060872,MAB,MOM6,Annual Bottom Temp,degrees C
+117,2002,12.247596,MAB,MOM6,Annual Bottom Temp,degrees C
+118,2003,10.484095,MAB,MOM6,Annual Bottom Temp,degrees C
+119,2004,9.928284,MAB,MOM6,Annual Bottom Temp,degrees C
+120,2005,10.385887,MAB,MOM6,Annual Bottom Temp,degrees C
+121,2006,11.628577,MAB,MOM6,Annual Bottom Temp,degrees C
+122,2007,10.723554,MAB,MOM6,Annual Bottom Temp,degrees C
+123,2008,11.391509,MAB,MOM6,Annual Bottom Temp,degrees C
+124,2009,10.555195,MAB,MOM6,Annual Bottom Temp,degrees C
+125,2010,9.893315,MAB,MOM6,Annual Bottom Temp,degrees C
+126,2011,10.435222,MAB,MOM6,Annual Bottom Temp,degrees C
+127,2012,12.30117,MAB,MOM6,Annual Bottom Temp,degrees C
+128,2013,10.828436,MAB,MOM6,Annual Bottom Temp,degrees C
+129,2014,10.9267,MAB,MOM6,Annual Bottom Temp,degrees C
+130,2015,10.996116,MAB,MOM6,Annual Bottom Temp,degrees C
+131,2016,12.02645,MAB,MOM6,Annual Bottom Temp,degrees C
+132,2017,11.660418,MAB,MOM6,Annual Bottom Temp,degrees C
+133,2018,11.311648,MAB,MOM6,Annual Bottom Temp,degrees C
+134,2019,12.19999,MAB,MOM6,Annual Bottom Temp,degrees C
+135,1993,-0.6468701,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+136,1994,0.5039851,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+137,1995,1.016505,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+138,1996,0.38247234,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+139,1997,1.5717981,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+140,1998,0.60402954,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+141,1999,0.33217216,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+142,2000,-0.16717282,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+143,2001,-0.09639377,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+144,2002,0.24765097,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+145,2003,-1.0464189,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+146,2004,-1.8575237,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+147,2005,-1.1053336,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+148,2006,0.47351947,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+149,2007,0.00078063825,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+150,2008,-0.49339026,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+151,2009,-0.7047309,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+152,2010,-0.2477004,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+153,2011,0.6539547,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+154,2012,0.8780638,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+155,2013,0.40659258,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+156,2014,-0.31208354,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+157,2015,-0.6734747,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+158,2016,0.104977734,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+159,2017,0.3802322,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+160,2018,-0.24657615,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+161,2019,0.040934164,GOM,MOM6,Winter Bottom Temp Anomaly,degrees C
+162,1993,-0.06287516,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+163,1994,0.72010756,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+164,1995,1.3971018,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+165,1996,0.46523386,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+166,1997,1.185794,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+167,1998,1.3144908,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+168,1999,-0.18487771,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+169,2000,0.060893252,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+170,2001,-0.39480793,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+171,2002,0.48001152,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+172,2003,-1.4499085,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+173,2004,-2.0582078,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+174,2005,-0.36841568,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+175,2006,0.20064163,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+176,2007,-0.70829606,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+177,2008,-0.5504104,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+178,2009,-1.0206541,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+179,2010,0.39020726,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+180,2011,1.0086275,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+181,2012,0.9992215,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+182,2013,0.10463538,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+183,2014,-0.6077248,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+184,2015,-1.219954,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+185,2016,0.7120849,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+186,2017,-0.3449923,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+187,2018,-0.2523965,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+188,2019,0.18447049,GOM,MOM6,Spring Bottom Temp Anomaly,degrees C
+189,1993,0.028661735,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+190,1994,0.6308149,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+191,1995,1.2592021,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+192,1996,0.59531903,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+193,1997,0.7113195,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+194,1998,0.9835121,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+195,1999,-0.29431558,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+196,2000,0.11587792,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+197,2001,-0.37608802,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+198,2002,0.4414253,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+199,2003,-1.2705165,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+200,2004,-2.0666974,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+201,2005,-0.11247239,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+202,2006,0.3251689,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+203,2007,-0.6209411,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+204,2008,-0.653864,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+205,2009,-0.8689064,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+206,2010,0.39803603,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+207,2011,0.6489373,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+208,2012,0.6180473,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+209,2013,0.32901073,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+210,2014,-0.25535947,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+211,2015,-0.9562366,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+212,2016,0.4916409,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+213,2017,-0.2994778,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+214,2018,0.03231473,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+215,2019,0.16558668,GOM,MOM6,Summer Bottom Temp Anomaly,degrees C
+216,1993,0.014687254,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+217,1994,0.6149498,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+218,1995,1.1137224,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+219,1996,0.8320829,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+220,1997,0.46223292,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+221,1998,0.5566632,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+222,1999,-0.43150866,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+223,2000,0.23461676,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+224,2001,-0.33814445,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+225,2002,0.35942766,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+226,2003,-1.1134617,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+227,2004,-1.8047864,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+228,2005,-0.084661625,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+229,2006,0.3940007,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+230,2007,-0.5844131,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+231,2008,-0.7840739,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+232,2009,-0.72843575,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+233,2010,0.4001011,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+234,2011,0.32571024,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+235,2012,0.3705046,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+236,2013,0.31687853,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+237,2014,0.07225426,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+238,2015,-0.7091275,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+239,2016,0.4457516,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+240,2017,-0.19163066,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+241,2018,0.1184833,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+242,2019,0.1381771,GOM,MOM6,Fall Bottom Temp Anomaly,degrees C
+243,1993,7.464849,GOM,MOM6,Annual Bottom Temp,degrees C
+244,1994,8.248913,GOM,MOM6,Annual Bottom Temp,degrees C
+245,1995,8.828081,GOM,MOM6,Annual Bottom Temp,degrees C
+246,1996,8.200225,GOM,MOM6,Annual Bottom Temp,degrees C
+247,1997,8.614234,GOM,MOM6,Annual Bottom Temp,degrees C
+248,1998,8.496123,GOM,MOM6,Annual Bottom Temp,degrees C
+249,1999,7.486816,GOM,MOM6,Annual Bottom Temp,degrees C
+250,2000,7.6925025,GOM,MOM6,Annual Bottom Temp,degrees C
+251,2001,7.3300896,GOM,MOM6,Annual Bottom Temp,degrees C
+252,2002,8.0135765,GOM,MOM6,Annual Bottom Temp,degrees C
+253,2003,6.4113717,GOM,MOM6,Annual Bottom Temp,degrees C
+254,2004,5.6846447,GOM,MOM6,Annual Bottom Temp,degrees C
+255,2005,7.2137275,GOM,MOM6,Annual Bottom Temp,degrees C
+256,2006,7.9797807,GOM,MOM6,Annual Bottom Temp,degrees C
+257,2007,7.1532307,GOM,MOM6,Annual Bottom Temp,degrees C
+258,2008,7.011014,GOM,MOM6,Annual Bottom Temp,degrees C
+259,2009,6.800767,GOM,MOM6,Annual Bottom Temp,degrees C
+260,2010,7.866609,GOM,MOM6,Annual Bottom Temp,degrees C
+261,2011,8.290755,GOM,MOM6,Annual Bottom Temp,degrees C
+262,2012,8.347909,GOM,MOM6,Annual Bottom Temp,degrees C
+263,2013,7.9207273,GOM,MOM6,Annual Bottom Temp,degrees C
+264,2014,7.3557196,GOM,MOM6,Annual Bottom Temp,degrees C
+265,2015,6.7417502,GOM,MOM6,Annual Bottom Temp,degrees C
+266,2016,8.070063,GOM,MOM6,Annual Bottom Temp,degrees C
+267,2017,7.517481,GOM,MOM6,Annual Bottom Temp,degrees C
+268,2018,7.544404,GOM,MOM6,Annual Bottom Temp,degrees C
+269,2019,7.76374,GOM,MOM6,Annual Bottom Temp,degrees C
+270,1993,-0.79598325,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+271,1994,-0.5303875,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+272,1995,0.53039986,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+273,1996,0.1818329,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+274,1997,0.077544026,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+275,1998,0.07661485,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+276,1999,0.36018,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+277,2000,-0.11723377,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+278,2001,-0.14803861,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+279,2002,0.59554255,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+280,2003,-0.7669179,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+281,2004,-1.5123873,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+282,2005,-0.3651623,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+283,2006,0.42423567,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+284,2007,0.22898082,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+285,2008,0.07074133,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+286,2009,-0.77029556,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+287,2010,-0.39379528,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+288,2011,-0.49468067,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+289,2012,1.2838254,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+290,2013,0.36457068,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+291,2014,-0.03220126,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+292,2015,-0.19132581,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+293,2016,0.9567037,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+294,2017,0.5490569,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+295,2018,0.39843118,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+296,2019,0.019749628,GB,MOM6,Winter Bottom Temp Anomaly,degrees C
+297,1993,-0.64938843,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+298,1994,-0.174728,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+299,1995,-0.07713525,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+300,1996,-0.08617616,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+301,1997,-0.5996279,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+302,1998,-0.04751374,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+303,1999,0.10182743,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+304,2000,0.66871434,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+305,2001,-0.019556135,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+306,2002,0.39941183,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+307,2003,-0.65940094,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+308,2004,-1.0805522,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+309,2005,-0.62886107,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+310,2006,0.29318738,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+311,2007,-0.37952164,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+312,2008,-0.14209488,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+313,2009,-0.63474727,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+314,2010,0.3095666,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+315,2011,-0.28323194,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+316,2012,0.99383384,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+317,2013,0.35098186,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+318,2014,0.37549654,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+319,2015,-0.16291226,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+320,2016,0.5689438,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+321,2017,0.66814595,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+322,2018,0.63989204,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+323,2019,0.25544614,GB,MOM6,Spring Bottom Temp Anomaly,degrees C
+324,1993,-0.4197213,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+325,1994,-0.05591543,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+326,1995,0.449468,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+327,1996,0.33347154,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+328,1997,-0.76953226,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+329,1998,-0.16284886,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+330,1999,0.008602048,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+331,2000,0.49937683,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+332,2001,0.14452092,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+333,2002,0.39813414,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+334,2003,-0.8801363,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+335,2004,-1.6180074,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+336,2005,-0.29827392,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+337,2006,0.31120834,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+338,2007,-0.4451622,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+339,2008,-0.27285603,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+340,2009,-0.8214974,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+341,2010,0.106772184,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+342,2011,-0.25316757,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+343,2012,0.5125076,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+344,2013,0.12506826,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+345,2014,0.4990158,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+346,2015,0.31008524,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+347,2016,0.5985131,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+348,2017,0.60088617,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+349,2018,0.68589413,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+350,2019,0.41359347,GB,MOM6,Summer Bottom Temp Anomaly,degrees C
+351,1993,-0.5195477,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+352,1994,-0.0017351006,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+353,1995,0.5707821,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+354,1996,-0.24299994,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+355,1997,-1.2435412,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+356,1998,-0.30032837,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+357,1999,-0.5290392,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+358,2000,-0.46765268,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+359,2001,0.05444347,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+360,2002,0.45006758,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+361,2003,-1.0803559,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+362,2004,-0.75028306,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+363,2005,0.51397604,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+364,2006,0.59445995,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+365,2007,-0.32286134,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+366,2008,-0.78842556,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+367,2009,-0.1281776,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+368,2010,-0.38632998,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+369,2011,0.19762525,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+370,2012,0.79066277,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+371,2013,-0.09470638,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+372,2014,0.35454276,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+373,2015,0.6665715,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+374,2016,0.8170775,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+375,2017,0.9721153,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+376,2018,0.24436511,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+377,2019,0.6292951,GB,MOM6,Fall Bottom Temp Anomaly,degrees C
+378,1993,9.346825,GB,MOM6,Annual Bottom Temp,degrees C
+379,1994,9.752294,GB,MOM6,Annual Bottom Temp,degrees C
+380,1995,10.311363,GB,MOM6,Annual Bottom Temp,degrees C
+381,1996,9.989516,GB,MOM6,Annual Bottom Temp,degrees C
+382,1997,9.3091955,GB,MOM6,Annual Bottom Temp,degrees C
+383,1998,9.834466,GB,MOM6,Annual Bottom Temp,degrees C
+384,1999,9.928376,GB,MOM6,Annual Bottom Temp,degrees C
+385,2000,10.088786,GB,MOM6,Annual Bottom Temp,degrees C
+386,2001,9.950827,GB,MOM6,Annual Bottom Temp,degrees C
+387,2002,10.403772,GB,MOM6,Annual Bottom Temp,degrees C
+388,2003,9.096281,GB,MOM6,Annual Bottom Temp,degrees C
+389,2004,8.702676,GB,MOM6,Annual Bottom Temp,degrees C
+390,2005,9.7484045,GB,MOM6,Annual Bottom Temp,degrees C
+391,2006,10.348757,GB,MOM6,Annual Bottom Temp,degrees C
+392,2007,9.713343,GB,MOM6,Annual Bottom Temp,degrees C
+393,2008,9.659825,GB,MOM6,Annual Bottom Temp,degrees C
+394,2009,9.354305,GB,MOM6,Annual Bottom Temp,degrees C
+395,2010,9.852038,GB,MOM6,Annual Bottom Temp,degrees C
+396,2011,9.734621,GB,MOM6,Annual Bottom Temp,degrees C
+397,2012,10.838193,GB,MOM6,Annual Bottom Temp,degrees C
+398,2013,10.129464,GB,MOM6,Annual Bottom Temp,degrees C
+399,2014,10.242197,GB,MOM6,Annual Bottom Temp,degrees C
+400,2015,10.098589,GB,MOM6,Annual Bottom Temp,degrees C
+401,2016,10.678293,GB,MOM6,Annual Bottom Temp,degrees C
+402,2017,10.640535,GB,MOM6,Annual Bottom Temp,degrees C
+403,2018,10.43513,GB,MOM6,Annual Bottom Temp,degrees C
+404,2019,10.272506,GB,MOM6,Annual Bottom Temp,degrees C
